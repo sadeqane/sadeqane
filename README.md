@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 The short version
 
-I'm a Technical Lead based in Muscat, Oman, who's spent 12+ years making sure real-time data (from drones, IoT sensors, and the occasional chaotic legacy system) arrives where it needs to go, in one piece, on time, without waking anyone up at 3am.
+I'm a Technical Lead based in Muscat, Oman, who's spent +14 years making sure real-time data (from drones, IoT sensors, and the occasional chaotic legacy system) arrives where it needs to go, in one piece, on time, without waking anyone up at 3am.
 
 ```python
 class SadeqQane:
