@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sadeq 👋</h1>
-<h3 align="center">I turn drone footage, hard hats, and messy IoT streams into systems that don't fall over</h3>
+<h3 align="center">I turn drone footage, hard hats, and geospatial streams into systems that don't fall over</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0F4C5C&center=true&vCenter=true&width=600&lines=Technical+Lead+%7C+Platform+Architecture;14%2B+years+turning+chaos+into+pipelines;Currently+wiring+drones+and+robots+to+the+cloud;Powered+by+coffee+and+too+many+terminal+tabs" alt="Typing SVG" />
@@ -15,7 +15,7 @@ I'm a Technical Lead based in Muscat, Oman, who's spent +14 years making sure re
 class SadeqQane:
     def __init__(self):
         self.role = "Technical Lead"
-        self.focus = ["AI platforms", "IoT pipelines", "distributed systems"]
+        self.focus = ["AI platforms", "geospatial platforms", "distributed systems"]
         self.years_of_experience = 14
         self.coffee_level = float("inf")
 
